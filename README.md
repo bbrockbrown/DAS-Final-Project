@@ -1,2 +1,2 @@
-# DAS-Final-Project - DSSl2
+# DAS-Final-Project - DSSL2
 This final project features a trip planning API that provides routing and searching services through manual user input. The program uses graphs, graph searching algorithms (Dijkstra's), and Road/POI structs to navigate the most efficient path given a specific input. The user inputs their trip 'itinerary' through POI structs and connects the POIs via road structs. Given a start and end point, or a POI category, the program will find either the most cost-efficient way to the endpoint or the top 5 closest POIs with the given category.
